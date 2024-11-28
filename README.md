@@ -7,7 +7,7 @@
 
 
 ## ⭐ Table of Contents
-[01. 알고리즘 효율성 분석](https://github.com/1224kang/Basic-Algorithm/tree/main/01.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%ED%9A%A8%EC%9C%A8%EC%84%B1%20%EB%B6%84%EC%84%9D)
+[01. 알고리즘 효율성 분석](https://github.com/1224kang/Basic-Algorithm/tree/main/01.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%ED%9A%A8%EC%9C%A8%EC%84%B1%20%EB%B6%84%EC%84%9D)<br/>
 [02. 완전 탐색](https://github.com/1224kang/Basic-Algorithm/tree/main/02.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89)
 
 
