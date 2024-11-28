@@ -1,0 +1,11 @@
+def binary_digits(n):
+    count = 1
+    while n > 1:
+        count = count + 1
+        n = n // 2
+    return count
+
+
+n = int(input())
+
+print(binary_digits(n))
